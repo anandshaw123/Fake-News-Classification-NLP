@@ -41,7 +41,7 @@ We consume news through several mediums throughout the day in our daily routine,
 8. Prediction on Client Data
 
 
-## Tech Stack Used
+## 🛠️ Tech Stack Used
 1. Python
 2. NLP
 3. Machine Learning Algorithms
