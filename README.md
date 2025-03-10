@@ -17,4 +17,4 @@
 
 
 
-- **Data set Link:** ([Fk-Ns-Cn](https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification))
+- **Data set Link:** ([Fake-News-Classification](https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification))
