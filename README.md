@@ -24,22 +24,23 @@ We consume news through several mediums throughout the day in our daily routine,
 1. Problem Statement
 2. Data Gathering
 3. Data Preprocessing:
-   #### Here we perform some operation on data
-    A. **Tokenization**
-    B. **Lower Case**
-    C. **Stopwords**
-    D. **Lemmatization / Stemming**
-5. Vectorization (Convert Text data into the Vector):
-    B. **TF-IDF**
-6. Model Building :
-    A. **Model Object Initialization**
-    B. **Train and Test Model**
-7. Model Evaluation :
-    A. **Accuracy Score**
-    B. **Confusition Matrix**
-    C. **Classification Report**
--------------------------------------------------   
-<!-- 7. Model Deployment 8. Prediction on Client Data -->
+###### Here we perform some operation on data
+ - Tokenization
+ - Lower Case
+ - Stopwords
+ - Lemmatization / Stemming
+
+4. Vectorization (Convert Text data into the Vector):
+ - TF-IDF
+
+5. Model Building :
+ - Model Object Initialization
+ - Train and Test Model
+
+6. Model Evaluation :
+ - Accuracy Score
+ - Confusition Matrix
+ - Classification Report
 
 
 ## 🛠️ Tech Stack Used
