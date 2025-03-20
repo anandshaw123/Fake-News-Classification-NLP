@@ -28,7 +28,6 @@ We consume news through several mediums throughout the day in our daily routine,
     C. Stopwords 
     D. Lemmatization / Stemming
 4. Vectorization (Convert Text data into the Vector):
-    A. Bag Of Words (CountVectorizer)
     B. TF-IDF
 5. Model Building :
     A. Model Object Initialization
@@ -37,8 +36,7 @@ We consume news through several mediums throughout the day in our daily routine,
     A. Accuracy Score
     B. Confusition Matrix
     C. Classification Report
-7. Model Deployment
-8. Prediction on Client Data
+<!-- 7. Model Deployment 8. Prediction on Client Data -->
 
 
 ## 🛠️ Tech Stack Used
@@ -47,4 +45,9 @@ We consume news through several mediums throughout the day in our daily routine,
 3. Machine Learning Algorithms
 4. Some Libraries
 
+## 📘 Use Case:
+1. Helps in detecting fake product reviews, misleading advertisements, and fraud attempts.
+2. Can be integrated into social media (Facebook, Twitter, LinkedIn) to flag or remove misleading news articles.
+3. Helps news agencies and journalists verify the authenticity of news before publishing.
+4. Protects businesses from fake news that can harm their brand image.
 
