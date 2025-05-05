@@ -47,7 +47,8 @@ We consume news through several mediums throughout the day in our daily routine,
 1. Python
 2. NLP
 3. Machine Learning Algorithms
-4. Some Libraries
+4. Flask
+5. Some Libraries
 
 ## 📘 Use Case:
 1. Helps in detecting fake product reviews, misleading advertisements, and fraud attempts.
