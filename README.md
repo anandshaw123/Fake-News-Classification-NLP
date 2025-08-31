@@ -6,6 +6,8 @@
 
 
 
+Developed a machine learning model to classify news articles as real or fake. Performed data cleaning, text preprocessing (tokenization, stopword removal, TF-IDF, Lemmatization / Stemming), and applied classification algorithms such as Logistic Regression and Naïve Bayes. Achieved high accuracy in detecting fake news, helping in misinformation prevention.
+
 
 
 
