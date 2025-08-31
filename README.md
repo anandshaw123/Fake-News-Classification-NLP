@@ -9,7 +9,7 @@
 Developed a machine learning model to classify news articles as real or fake. Performed data cleaning, text preprocessing (tokenization, stopword removal, TF-IDF, Lemmatization / Stemming), and applied classification algorithms such as Logistic Regression and Naïve Bayes. Achieved high accuracy in detecting fake news, helping in misinformation prevention.
 
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -57,4 +57,23 @@ We consume news through several mediums throughout the day in our daily routine,
 2. Can be integrated into social media (Facebook, Twitter, LinkedIn) to flag or remove misleading news articles.
 3. Helps news agencies and journalists verify the authenticity of news before publishing.
 4. Protects businesses from fake news that can harm their brand image.
+
+
+## Author & Contact:
+
+A machine learning project to detect and classify news articles as real or fake.  
+
+
+## 👤 **Anand Shaw**  
+#### 📧 Email: anand.shaw6000@gmail.com  
+#### 🔗 LinkedIn: [linkedin.com/in/anandshaw](https://www.linkedin.com/in/anand-shaw-8069a6278/)  
+#### 💻 GitHub: [github.com/anandshaw123](https://github.com/anandshaw123)  
+
+---
+⭐ If you like this project, give it a star!
+
+
+
+
+
 
